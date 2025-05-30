@@ -9,4 +9,5 @@ Using Arduino IDE, install esp32 boards manager version 3.2.0 (future/past versi
 Download the repo and open the .ino file
 
 flash to ESP32, and done! setting using serial monitor!
+
 ![image](https://github.com/user-attachments/assets/0815ae66-cfe9-462f-a13f-890168b3790a)
